@@ -1,2 +1,2 @@
 GitHub on projektide salvestamiseks mõeldud platvorm, laseb mitmetel inimestel korraga töötada kindla asja kallal. Enamjaolt mõeldud programmeerijate jaoks.
-
+Edaspidi saan GitHubi kasutada oma projektide salvestamiseks, olgu see siis kas koolitööga seotud või hoopis tööl.
