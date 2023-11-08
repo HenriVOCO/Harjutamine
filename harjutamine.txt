@@ -1,2 +1,3 @@
 GitHub on projektide salvestamiseks mõeldud platvorm, laseb mitmetel inimestel korraga töötada kindla asja kallal. Enamjaolt mõeldud programmeerijate jaoks.
-
+Edaspidi saan GitHubi kasutada oma projektide salvestamiseks, olgu see siis kas koolitööga seotud või hoopis tööl.
+GitHubi tegemisega alustati 2007, 19. oktoobril. GitHubi arendajateks olid Chris Wanstrath, P. J. Hyett, Tom Preston-Werner ja Scott Chacon. Veebisait tehti avalikuks 2008 Aprillis.
